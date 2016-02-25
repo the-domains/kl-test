@@ -1,7 +1,7 @@
 name: KL Test
 favicon: null
-layout_spectrum: 0.8834051960147917
-typography_spectrum: 0.4530275701545179
+layout_spectrum: 0.95802
+typography_spectrum: 0.73285
 cta:
   domain: null
   bucket: null
