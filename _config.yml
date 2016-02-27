@@ -1,7 +1,7 @@
-name: KL Test
+name: Kenny from the Block
 favicon: null
-layout_spectrum: 0.95802
-typography_spectrum: 0.73285
+layout_spectrum: 1
+typography_spectrum: 0.73887
 title: Kenneth Lim
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.3125
-  lightness: 0.7162663848139346
-  saturation: 0.3395142196677625
-  rhythmicContrast: 0.03044000850059092
+    - '#76a2d3'
+    - '#1e2128'
+    - '#4a719c'
+    - '#cbddf1'
+    - '#fbfdfa'
+  brandStrength: 0.25
+  lightness: 0.6875
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
